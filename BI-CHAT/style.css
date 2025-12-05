@@ -1,0 +1,144 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin-top: 0;
+   position: relative;
+   z-index: 100;
+   margin-bottom: 40px;
+}
+.hum {
+    width: 40px;
+    margin-right: 0;
+    margin-top: -25px;
+    position: absolute;
+    right: 0;
+
+}
+.bi {
+    margin-top: -50px;;
+    font-size: 25px;
+    font-weight: bold;
+    vertical-align: center;
+    position: absolute;
+    left: 0;
+    margin-left: 50px;;
+    
+}
+.bi:hover {
+    color: green;
+    cursor: pointer;
+}
+.bi:active {
+    opacity: 0.15;
+}
+.body {
+    background-color: rgb(212, 201, 201);
+
+    
+    
+    
+}
+.but {
+    height: 22px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-top: -20px;
+}
+.all-button {
+     width: 35px;
+    color: white;
+    background-color: rgb(81, 78, 78);
+    border-radius: 17px;
+    cursor: pointer;
+}
+   
+   
+.unread-button {
+     color: white;
+    background-color: rgb(81, 78, 78);
+    border-radius: 17px;
+    cursor: pointer;
+}
+   
+    
+   
+
+.add-button {
+     color: white;
+    background-color: rgb(81, 78, 78);
+    border-radius: 17px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.all-button:hover {
+    background-color: black;
+    color:rgb(81, 78, 78) 
+    
+    
+
+}
+.unread-button:hover {
+     background-color: black;
+    color:rgb(81, 78, 78) 
+    
+    
+}
+.add-button:hover {
+     background-color: black;
+    color:rgb(81, 78, 78) 
+    
+}
+.border {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(13, 212, 212);
+    padding: 5px;
+    margin-top: -10px;
+    
+   
+}
+.middle {
+     padding-top: 317px;
+     padding-bottom: 317px;
+   background-color: rgb(59, 59, 126);
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 4px;
+
+}
+.blogo {
+    width: 40px;
+    border-radius: 20px;
+    
+    display: inline-block;
+}
+.mwili {
+  
+  
+   
+}
+.chat {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.update {
+     width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.call {
+     width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+
+

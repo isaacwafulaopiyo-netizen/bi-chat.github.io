@@ -1,1 +1,45 @@
 # bi-chat.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>www.bi-chat.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="body">
+             <div class="header">
+            <div>
+                <img class="blogo" src="b logo.jpeg">
+                <p class="bi">BI-CHAT</p>
+            </div>
+            <div>
+                <img class="hum" src="hamburger-menu.svg">
+            </div>
+        </div>
+    <div>
+        <div class="but">
+            <button class="all-button">All</button>
+            <button class="unread-button">Unread</button>
+            <button class="add-button">Add +</button>
+        </div>
+    </div>
+    </div>
+
+        </div>
+       
+     
+    <div class="mwili">
+        <p class="middle">BODY</p>
+        
+    </di>
+    <div>
+        <div class="border">
+            <img class="chat" src="chat.png">
+            <img class="update" src="update.png">
+            <img class="call" src="calls.png">
+        </div>
+    </div>
+</body>
+</html>
